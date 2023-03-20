@@ -1,0 +1,25 @@
+.main__nav--item{
+    margin-top:20px ;
+    list-style: none;
+    padding-left: 0;
+}
+.main__nav--item{
+    display: inline-block;
+}
+.main__nav--item a{
+    color: black;
+     background-color: yellow; 
+    text-decoration: none;
+    border-radius: 10px;
+    padding: 20px;
+}
+.main__nav--item a:hover{
+    color: blue;
+    font-size: 30px;
+}
+.main__nav--item a:active{
+    color: black;
+}
+.main__nav--item a::after{
+    /* content: " | "; */
+}
