@@ -1,0 +1,29 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+.padre{
+    background-color: blue;
+    border: 2px brown;
+}
+.box{
+    display: inline-block;
+    background-color: green;
+    width: 100px;
+    height: 100px;
+}
+#uno{
+    background-color: azure;
+}
+#dos{
+    background-color: orange;
+    position: sticky;
+    top: 20px;
+}
+#tres{
+    background-color: bisque;
+}
+#cuatro{
+    background-color: lime;
+}
