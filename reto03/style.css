@@ -1,0 +1,36 @@
+header{
+background-color: yellow;
+height: 10rem;
+display: flex;
+justify-content: center ;
+align-items: center;
+font-size: 2rem;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+background-image: url(/images/anime.jpg);
+}
+
+.container{
+    background-color: aqua;
+    height:  29rem;
+    display: flex;
+    font-family: 'Alkatra'cursive;
+    font-size: 3rem;
+}
+
+.container_menu{
+    background-color: blue;
+    width: 20%;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.container_contenido{
+    background-color: blueviolet;
+    width: 80%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 2rem ;
+}
